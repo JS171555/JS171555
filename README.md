@@ -193,9 +193,11 @@ com potenciais clientes.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JS171555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JS171555&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JS171555&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JS171555&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
