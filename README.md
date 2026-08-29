@@ -189,28 +189,22 @@ com potenciais clientes.
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JS171555&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JS171555&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JS171555&theme=tokyonight)
 
 </div>
-
 ---
 
-# 📈 Atividade
+## 🔥 Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JS171555&theme=tokyo-night&hide_border=true" width="95%"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JS171555&theme=tokyo-night&hide_border=true)
 
 </div>
-
 ---
 
 # 🎯 O que estou construindo
