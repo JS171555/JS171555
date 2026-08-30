@@ -29,7 +29,7 @@ Desenvolvo aplicações web modernas com foco em performance, responsividade e c
 
 | Projeto | Descrição |
 |---|---|
-| [kmcheck](https://github.com/JS171555/kmcheck) | Sistema web para consulta e administração de históricos de quilometragem veicular |
+| [kmcheck](https://kmcheck.vercel.app/) | Sistema web para consulta e administração de históricos de quilometragem veicular |
 | [quizdpsp](https://js171555.github.io/quizdpsp/) | Quiz interativo e gamificado sobre a cultura DPSP |
 | [xbrgames](https://js171555.github.io/xbrgames/) | Plataforma de apresentação e distribuição de jogos para navegador |
 | [wg_espaco_gourmet](https://wgespacogourmet.com.br) | Site institucional para fabricante de churrasqueiras e fornos artesanais |
