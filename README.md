@@ -32,7 +32,7 @@ Desenvolvo aplicações web modernas com foco em performance, responsividade e c
 | [kmcheck](https://github.com/JS171555/kmcheck) | Sistema web para consulta e administração de históricos de quilometragem veicular |
 | [quizdpsp](https://github.com/JS171555/quizdpsp) | Quiz interativo e gamificado sobre a cultura DPSP |
 | [xbrgames](https://github.com/JS171555/xbrgames) | Plataforma de apresentação e distribuição de jogos para navegador |
-| [wg_espaco_gourmet](https://github.com/JS171555/wg_espaco_gourmet) | Site institucional para fabricante de churrasqueiras e fornos artesanais |
+| [wg_espaco_gourmet](https://wgespacogourmet.com.br) | Site institucional para fabricante de churrasqueiras e fornos artesanais |
 | [isa_closet](https://github.com/JS171555/isa_closet) | Vitrine de moda transformada em experiência de compra online |
 
 ## Contato
