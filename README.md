@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Junior
+# Olá, sou o Junior
 
 Desenvolvedor Web · Full Stack
 
