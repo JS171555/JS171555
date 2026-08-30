@@ -13,7 +13,7 @@ Desenvolvedor Web · Full Stack
 
 ## Sobre
 
-Desenvolvo aplicações web modernas com foco em performance, responsividade e código organizado — do frontend ao backend, incluindo bancos de dados e deploy.
+Desenvolvo aplicações web modernas com foco em performance, responsividade e código organizado - do frontend ao backend, incluindo bancos de dados e deploy.
 
 ## Stack
 
@@ -37,4 +37,4 @@ Desenvolvo aplicações web modernas com foco em performance, responsividade e c
 
 ## Contato
 
-Aberto a trocar ideias sobre desenvolvimento web e possíveis colaborações — [Instagram](https://instagram.com/jrxants)
+Aberto a trocar ideias sobre desenvolvimento web e possíveis colaborações - [Instagram](https://instagram.com/jrxants)
