@@ -33,7 +33,7 @@ Desenvolvo aplicações web modernas com foco em performance, responsividade e c
 | [quizdpsp](https://github.com/JS171555/quizdpsp) | Quiz interativo e gamificado sobre a cultura DPSP |
 | [xbrgames](https://github.com/JS171555/xbrgames) | Plataforma de apresentação e distribuição de jogos para navegador |
 | [wg_espaco_gourmet](https://wgespacogourmet.com.br) | Site institucional para fabricante de churrasqueiras e fornos artesanais |
-| [isa_closet](https://github.com/JS171555/isa_closet) | Vitrine de moda transformada em experiência de compra online |
+| [isa_closet](https://isacloset.online) | Vitrine de moda transformada em experiência de compra online |
 
 ## Contato
 
