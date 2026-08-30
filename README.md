@@ -18,10 +18,13 @@ Desenvolvo aplicações web modernas com foco em performance, responsividade e c
 ## Stack
 
 **Frontend** · HTML5, CSS3, JavaScript, Tailwind CSS
+-
 **Backend** · Python, Flask, Node.js, Express
+-
 **Dados** · PostgreSQL, SQL, Supabase
+-
 **Ferramentas** · Git, GitHub, Vercel, GSAP
-
+-
 ## Projetos em destaque
 
 | Projeto | Descrição |
