@@ -11,8 +11,6 @@ Desenvolvedor Web · Full Stack
 
 ---
 
-<div align="center">
-
 ## Sobre
 
 Desenvolvo aplicações web modernas com foco em performance, responsividade e código organizado - do frontend ao backend, incluindo bancos de dados e deploy.
@@ -26,6 +24,8 @@ Desenvolvo aplicações web modernas com foco em performance, responsividade e c
 **Dados** · PostgreSQL, SQL, Supabase
 
 **Ferramentas** · Git, GitHub, Vercel, GSAP
+
+<div align="center">
 
 ## Projetos em destaque
 
