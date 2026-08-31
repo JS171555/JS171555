@@ -25,8 +25,6 @@ Desenvolvo aplicações web modernas com foco em performance, responsividade e c
 
 **Ferramentas** · Git, GitHub, Vercel, GSAP
 
-<div align="center">
-
 ## Projetos em destaque
 
 | Projeto | Descrição |
@@ -40,5 +38,3 @@ Desenvolvo aplicações web modernas com foco em performance, responsividade e c
 ## Contato
 
 Aberto a trocar ideias sobre desenvolvimento web e possíveis colaborações - [Instagram](https://instagram.com/jrxants)
-
-</div>
