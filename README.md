@@ -5,7 +5,7 @@
 Desenvolvedor Web · Full Stack
 
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/JS171555)
-[![Instagram](https://img.shields.io/badge/Instagram-@jrxants-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jrxants)
+[![Instagram](https://img.shields.io/badge/Instagram-@jrxants-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/jrxsnts)
 
 </div>
 
