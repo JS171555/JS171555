@@ -29,6 +29,7 @@ Desenvolvo aplicações web modernas com foco em performance, responsividade e c
 
 | Projeto | Descrição |
 |---|---|
+| [teatro de marion](https://js171555.github.io/teatro_de_marion/) | Jogo de terror surrealista point-and-click para navegador, onde memórias, mistérios e histórias esquecidas ganham vida. |
 | [isa_closet](https://isacloset.online) | Vitrine de moda transformada em experiência de compra online |
 | [wg_espaco_gourmet](https://wgespacogourmet.com.br) | Site institucional para fabricante de churrasqueiras e fornos artesanais |
 | [kmcheck](https://kmcheck.vercel.app/) | Sistema web para consulta e administração de históricos de quilometragem veicular |
