@@ -4,86 +4,117 @@
 
 **Desenvolvedor Web | Full Stack**
 
-Construo aplicações web modernas, responsivas e funcionais, do frontend ao backend.
+Construo aplicações web responsivas e funcionais, conectando interfaces, lógica de aplicação e serviços de dados.
 
-<p>
-<a href="https://github.com/JS171555">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://instagram.com/jrxants">
-    <img src="https://img.shields.io/badge/Instagram-@jrxants-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p> </div>
+<a href="https://github.com/JS171555"><img src="https://img.shields.io/badge/GitHub-JS171555-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub JS171555"></a>
+<a href="https://instagram.com/jrxants"><img src="https://img.shields.io/badge/Instagram-@jrxants-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @jrxants"></a>
+<a href="https://github.com/JS171555?tab=repositories"><img src="https://img.shields.io/github/followers/JS171555?style=for-the-badge&logo=github&label=seguidores&color=2563EB" alt="Seguidores no GitHub"></a>
+
+</div>
 
 ---
 
-## Sobre mim
+## Sobre
 
-Sou desenvolvedor Web com experiência na criação de interfaces responsivas, sistemas web e experiências digitais orientadas a objetivos reais de negócio.
+Sou Junior Santos, desenvolvedor web com foco na criação de aplicações e experiências digitais para necessidades reais. Nos meus projetos, trabalho desde a construção de interfaces responsivas até integrações com autenticação, bancos de dados e serviços em nuvem.
 
-Meu trabalho combina **design de interfaces, desenvolvimento frontend, lógica de backend, integração com bancos de dados e publicação de aplicações**. Busco escrever código organizado, construir soluções acessíveis e entregar produtos com boa performance e experiência de uso consistente.
+Gosto de organizar o código com clareza e pensar na experiência de uso em diferentes dispositivos. Meu portfólio reúne sistemas administrativos, catálogos online, ferramentas web e projetos interativos para navegador.
 
----
+## Tecnologias e ferramentas
 
-## Tecnologias
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,flask,nodejs,express,postgres,supabase,git,github,vercel,gsap&perline=7" alt="HTML, CSS, JavaScript, Tailwind CSS, Python, Flask, Node.js, Express, PostgreSQL, Supabase, Git, GitHub, Vercel e GSAP">
+</div>
 
-<p align="center">
-<a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,flask,nodejs,express,postgres,supabase,git,github,vercel&perline=7" alt="Tecnologias: HTML, CSS, JavaScript, Tailwind CSS, Python, Flask, Node.js, Express, PostgreSQL, Supabase, Git, GitHub e Vercel">
-  </a>
-</p>
+<p align="center"><sub>Ícones fornecidos pelo <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>.</sub></p>
 
-> Os ícones desta seção são fornecidos pelo [Skill Icons](https://github.com/tandpfun/skill-icons).
-
-| Área | Tecnologias |
+| Área | Tecnologias utilizadas nos projetos |
 | --- | --- |
-| **Frontend** | HTML5, CSS3, JavaScript, Tailwind CSS |
-| **Backend** | Python, Flask, Node.js, Express |
-| **Dados** | PostgreSQL, SQL, Supabase |
-| **Ferramentas e deploy** | Git, GitHub, Vercel, GSAP |
+| **Interface** | HTML5, CSS3, JavaScript, Tailwind CSS, GSAP |
+| **Backend e dados** | Python, Flask, Node.js, Express, PostgreSQL, SQL, Supabase |
+| **Ferramentas e publicação** | Git, GitHub, GitHub Pages, Vercel |
 
----
+## Foco de desenvolvimento
+
+- Interfaces responsivas e experiências web que funcionam bem em diferentes tamanhos de tela.
+- Aplicações com autenticação, persistência de dados e recursos administrativos usando Supabase e PostgreSQL.
+- Catálogos digitais, fluxos de compra e sistemas voltados a necessidades específicas.
+- Jogos e experiências interativas executados no navegador.
 
 ## Projetos em destaque
 
-| Projeto | Descrição |
-| --- | --- |
-| [**Teatro de Marion**](https://js171555.github.io/teatro_de_marion/) | Jogo de terror surrealista point-and-click para navegador, baseado em memória, identidade e mistério. |
-| [**Isa Closet**](https://isacloset.online) | Vitrine de moda transformada em uma experiência de compra online, com catálogo e integração com WhatsApp. |
-| [**WG Espaço Gourmet**](https://wgespacogourmet.com.br) | Site institucional para uma fabricante de churrasqueiras e fornos artesanais. |
-| [**Quiz DPSP**](https://js171555.github.io/quizdpsp/) | Quiz interativo e gamificado sobre a cultura DPSP. |
-| [**XBR Games**](https://js171555.github.io/xbrgames/) | Plataforma de apresentação e distribuição de jogos para navegador. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JS171555/box_jardim_silvina">Box Jardim Silvina</a></h3>
+      <p>Aplicação responsiva para apoiar a rotina de um box de treinamento funcional, com área do aluno, painel administrativo, autenticação e dados gerenciados pelo Supabase. Também pode ser instalada como PWA.</p>
+      <p><sub>JavaScript · Supabase · PWA</sub></p>
+      <p><a href="https://github.com/JS171555/box_jardim_silvina">Ver repositório</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JS171555/meu_bolso">Meu Bolso</a></h3>
+      <p>Aplicação de controle financeiro pessoal para registrar receitas e despesas, acompanhar saldo e consultar gastos por categoria. Inclui autenticação e persistência na nuvem com Supabase.</p>
+      <p><sub>HTML · CSS · JavaScript · Supabase</sub></p>
+      <p><a href="https://github.com/JS171555/meu_bolso">Ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JS171555/isa_closet">Isa Closet</a></h3>
+      <p>Vitrine de moda com catálogo dinâmico, sacola de compras, seleção de tamanhos, checkout por WhatsApp e painel administrativo conectado ao Supabase.</p>
+      <p><sub>JavaScript · Supabase · GSAP</sub></p>
+      <p><a href="https://github.com/JS171555/isa_closet">Ver repositório</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JS171555/teatro_de_marion">Teatro de Marion</a></h3>
+      <p>Aventura narrativa point-and-click de terror surrealista sobre memória e identidade. Desenvolvida em Construct 3; o projeto está em desenvolvimento.</p>
+      <p><sub>Construct 3 · Web · Narrativa interativa</sub></p>
+      <p><a href="https://github.com/JS171555/teatro_de_marion">Ver repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JS171555/quizdpsp">Quiz DPSP</a></h3>
+      <p>Quiz web gamificado que apresenta conceitos da cultura DPSP com perguntas de múltipla escolha, feedback imediato, progresso, pontuação e revisão das respostas.</p>
+      <p><sub>HTML · CSS · JavaScript · Tailwind CSS</sub></p>
+      <p><a href="https://github.com/JS171555/quizdpsp">Ver repositório</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Outros trabalhos</h3>
+      <p><a href="https://github.com/JS171555/xbrgames"><strong>XBR Games</strong></a> — plataforma para apresentar e distribuir projetos de jogos para navegador.</p>
+      <p><a href="https://wgespacogourmet.com.br/"><strong>WG Prime — Fornos &amp; Churrasqueiras</strong></a> — site institucional para uma fabricante de equipamentos em aço inox para áreas gourmet.</p>
+    </td>
+  </tr>
+</table>
 
----
+## GitHub
 
-## Áreas de interesse
+<div align="center">
+  <a href="https://github.com/JS171555">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=JS171555&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Estatísticas públicas do GitHub de Junior Santos">
+  </a>
+  <a href="https://github.com/JS171555?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JS171555&layout=compact&hide_border=true&theme=transparent" alt="Linguagens presentes nos repositórios públicos">
+  </a>
+</div>
 
-- Desenvolvimento de aplicações web responsivas
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JS171555&theme=github-compact&hide_border=true&area=true" alt="Gráfico de atividade pública no GitHub">
+</p>
 
-- Interfaces modernas e experiências digitais
-
-- Sistemas administrativos e catálogos online
-
-- Integrações com APIs e serviços externos
-
-- Performance, acessibilidade e organização de código
-
-- Jogos e experiências interativas para navegador
-
----
+<sub>Os cartões de estatísticas e o gráfico são carregados dinamicamente por serviços externos e refletem dados públicos do GitHub.</sub>
 
 ## Contato
 
-Estou aberto a conversar sobre desenvolvimento web, projetos independentes, oportunidades profissionais e possíveis colaborações.
+Estou aberto a conversar sobre desenvolvimento web, projetos independentes, oportunidades profissionais e colaborações.
 
 - **GitHub:** [github.com/JS171555](https://github.com/JS171555)
-
 - **Instagram:** [@jrxants](https://instagram.com/jrxants)
 
 ---
 
 <div align="center">
 
-Desenvolvido com foco em código, design e experiência do usuário.
+*Código organizado, soluções úteis e atenção à experiência de quem usa.*
 
 </div>
