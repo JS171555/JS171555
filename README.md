@@ -7,8 +7,6 @@
 Construo aplicações web responsivas e funcionais, conectando interfaces, lógica de aplicação e serviços de dados.
 
 <a href="https://github.com/JS171555"><img src="https://img.shields.io/badge/GitHub-JS171555-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub JS171555"></a>
-<a href="https://instagram.com/jrxants"><img src="https://img.shields.io/badge/Instagram-@jrxants-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @jrxants"></a>
-<a href="https://github.com/JS171555?tab=repositories"><img src="https://img.shields.io/github/followers/JS171555?style=for-the-badge&logo=github&label=seguidores&color=2563EB" alt="Seguidores no GitHub"></a>
 
 </div>
 
