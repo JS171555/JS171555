@@ -28,6 +28,9 @@ Atuo com tecnologias do ecossistema JavaScript e Python, além de ferramentas pa
 | **Ferramentas e deploy** | Git, GitHub, Vercel, GitHub Pages |
 
 ## Projetos selecionados
+### [Los Santos Reader](https://github.com/JS171555/los-santos-reader)
+Aplicação web de leitura digital em desenvolvimento, com biblioteca, visualização de livros e recursos de conta e perfil. O projeto também inclui interface responsiva e estrutura preparada para instalação como PWA.
+**Tecnologias:** HTML, CSS, JavaScript e SQL.
 
 ### [OTAKU LEVEL](https://github.com/JS171555/otaku-level)
 
@@ -59,7 +62,7 @@ Jogo narrativo de terror surrealista no estilo point-and-click, com foco em mem�
 
 **Tecnologias:** Construct 3 e desenvolvimento de jogos para navegador.
 
-## Áreas de interesse
+## Interesses
 
 - Desenvolvimento de aplicações web responsivas.
 - Criação de interfaces e experiências digitais.
