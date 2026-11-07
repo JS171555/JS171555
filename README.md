@@ -1,87 +1,73 @@
-<div align="center">
-
 # Junior Santos
 
 **Desenvolvedor Full Stack**
 
-Desenvolvimento de aplicações web com foco em interfaces bem construídas, soluções funcionais e experiências digitais consistentes.
+Aplicações web, plataformas de gestão e integrações com APIs.
 
-[GitHub](https://github.com/JS171555) · [Instagram](https://instagram.com/jrxants)
-
-</div>
-
----
+[Projetos em destaque](#projetos-em-destaque) · [Competências técnicas](#competências-técnicas) · [Contato](#contato)
 
 ## Sobre
 
-Sou desenvolvedor web e trabalho na criação de aplicações, sistemas e experiências digitais voltadas a necessidades reais. Tenho interesse tanto no desenvolvimento de interfaces quanto na implementação de funcionalidades, integrações e estruturas de dados que sustentam cada projeto.
+Desenvolvo aplicações web com JavaScript e Python, da interface à integração com serviços e bancos de dados. Meus projetos incluem e-commerce, leitura digital, gestão de treinos e organização pessoal.
 
-Atuo com tecnologias do ecossistema JavaScript e Python, além de ferramentas para bancos de dados, hospedagem e publicação de aplicações. Valorizo código organizado, responsividade, usabilidade e soluções que sejam simples de manter e evoluir.
+Priorizo interfaces responsivas, fluxos de uso claros e código organizado. Trabalho com autenticação, controle de acesso, persistência de dados e integrações externas, além da publicação e evolução das aplicações.
 
 ## Competências técnicas
 
-| Área | Tecnologias |
+| Área | Tecnologias e ferramentas |
 | --- | --- |
-| **Frontend** | HTML5, CSS3, JavaScript, Tailwind CSS, GSAP |
-| **Backend** | Python, Flask, Node.js, Express |
-| **Banco de dados e serviços** | PostgreSQL, SQL, Supabase |
-| **Ferramentas e deploy** | Git, GitHub, Vercel, GitHub Pages |
+| **Frontend** | HTML5, CSS3, JavaScript, Tailwind CSS, GSAP e Vite |
+| **Backend** | Python, Flask, Node.js, Express e Supabase Edge Functions |
+| **Dados e autenticação** | PostgreSQL, SQL, Supabase Auth, Storage e políticas RLS |
+| **Integrações** | APIs REST, Mercado Pago, Melhor Envio, ViaCEP e Kitsu API |
+| **Qualidade e publicação** | Git, GitHub, Playwright, Node.js Test Runner, Vercel e GitHub Pages |
 
-## Projetos selecionados
+## Projetos em destaque
+
+### [Pupi](https://github.com/JS171555/pupi)
+
+E-commerce para petshop com catálogo, carrinho, conta do cliente e painel administrativo. Inclui pagamento por cartão e Pix dentro do aplicativo, cotação de frete, consulta de CEP e gestão de produtos, estoque e pedidos.
+
+**Tecnologias:** JavaScript modular, Vite, Supabase, PostgreSQL, GSAP e Lucide.  
+**Integrações:** Mercado Pago, Melhor Envio e ViaCEP.
+
 ### [Los Santos Reader](https://github.com/JS171555/los-santos-reader)
-Aplicação web de leitura digital em desenvolvimento, com biblioteca, visualização de livros e recursos de conta e perfil. O projeto também inclui interface responsiva e estrutura preparada para instalação como PWA.
-**Tecnologias:** HTML, CSS, JavaScript e SQL.
+
+Plataforma de leitura digital com biblioteca, leitor de PDF, marcadores e retomada do progresso. Reúne metas de leitura, gamificação e administração do catálogo, com interface responsiva e instalação como PWA.
+
+**Tecnologias:** HTML, CSS, JavaScript, Supabase, PostgreSQL, PDF.js e GSAP.
 
 ### [OTAKU LEVEL](https://github.com/JS171555/otaku-level)
 
-Aplicação web responsiva para acompanhar animes, organizar uma biblioteca pessoal e registrar conquistas por meio de recursos de gamificação. Integra autenticação e persistência de dados com Supabase, catálogo da Kitsu API e instalação como PWA.
+Aplicação para acompanhar animes e organizar uma biblioteca pessoal. Integra o catálogo da Kitsu API a recursos de avaliação, favoritos, progresso, conquistas e ranking.
 
 **Tecnologias:** HTML, CSS, JavaScript, Supabase, PostgreSQL, Kitsu API e PWA.
 
-### [Box Jardim Silvina](https://github.com/JS171555/box_jardim_silvina)
+### [BOX Jardim Silvina](https://github.com/JS171555/box_jardim_silvina)
 
-Aplicação web responsiva para apoiar a gestão de um espaço de treinamento funcional. Conta com área do aluno, painel administrativo, autenticação e gerenciamento de dados com Supabase. Também oferece suporte à instalação como PWA.
+Plataforma para a rotina de um espaço de treinamento funcional, com área do aluno e painel do treinador. Permite consultar treinos, registrar presença e resultados e acompanhar a evolução dos alunos.
 
-**Tecnologias:** JavaScript, Supabase e PWA.
+**Tecnologias:** HTML, CSS, JavaScript, Supabase, PostgreSQL e PWA.
 
-### [Meu Bolso](https://github.com/JS171555/meu_bolso)
+## Outros projetos
 
-Aplicação de controle financeiro pessoal para registrar receitas e despesas, acompanhar o saldo e organizar gastos por categoria. Possui autenticação e persistência de dados na nuvem.
+| Projeto | Proposta |
+| --- | --- |
+| [Meu Bolso](https://github.com/JS171555/meu_bolso) | Controle financeiro pessoal com receitas, despesas, saldo e organização por categoria. |
+| [Isa Closet](https://github.com/JS171555/isa_closet) | Vitrine de moda com catálogo, sacola, seleção de tamanhos, atendimento pelo WhatsApp e administração de produtos. |
+| [Teatro de Marion](https://github.com/JS171555/teatro_de_marion) | Jogo narrativo de terror surrealista no estilo point-and-click, em desenvolvimento com Construct 3. |
 
-**Tecnologias:** HTML, CSS, JavaScript e Supabase.
+[Explorar todos os repositórios](https://github.com/JS171555?tab=repositories)
 
-### [Isa Closet](https://github.com/JS171555/isa_closet)
+## Como trabalho
 
-Vitrine digital de moda com catálogo de produtos, sacola de compras, seleção de tamanhos, checkout direcionado ao WhatsApp e painel administrativo integrado ao Supabase.
-
-**Tecnologias:** JavaScript, Supabase e GSAP.
-
-### [Teatro de Marion](https://github.com/JS171555/teatro_de_marion)
-
-Jogo narrativo de terror surrealista no estilo point-and-click, com foco em memória, identidade e mistério. Desenvolvido no Construct 3 e atualmente em desenvolvimento.
-
-**Tecnologias:** Construct 3 e desenvolvimento de jogos para navegador.
-
-## Interesses
-
-- Desenvolvimento de aplicações web responsivas.
-- Criação de interfaces e experiências digitais.
-- Sistemas administrativos e plataformas de gerenciamento.
-- Integração com APIs, bancos de dados e serviços externos.
-- Desenvolvimento de produtos digitais e aplicações interativas.
-- Qualidade de código, acessibilidade e desempenho.
+- Organizo funcionalidades em módulos e componentes compartilhados para facilitar a manutenção.
+- Cuido da navegação, da adaptação ao celular e dos estados de carregamento, erro e sucesso.
+- Trato permissões e validações no backend, além das verificações da interface.
+- Uso testes automatizados e documentação para apoiar a evolução dos projetos.
 
 ## Contato
 
-Estou disponível para conversar sobre projetos, desenvolvimento de aplicações web, oportunidades profissionais e colaborações.
+Aberto a oportunidades profissionais, projetos de desenvolvimento web e colaborações.
 
-- **GitHub:** [github.com/JS171555](https://github.com/JS171555)
-- **Instagram:** [@jrxants](https://instagram.com/jrxants)
-
----
-
-<div align="center">
-
-*Desenvolvimento com propósito, atenção aos detalhes e foco em soluções que funcionam.*
-
-</div>
+**GitHub:** [github.com/JS171555](https://github.com/JS171555)
