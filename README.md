@@ -32,6 +32,12 @@ E-commerce para petshop com catálogo, carrinho, conta do cliente e painel admin
 **Tecnologias:** JavaScript modular, Vite, Supabase, PostgreSQL, GSAP e Lucide.  
 **Integrações:** Mercado Pago, Melhor Envio e ViaCEP.
 
+### [NOCTUA](https://github.com/JS171555/noctua)
+
+Experiência sonora minimalista para dispositivos móveis e tablets, com camadas de som que podem ser combinadas para criar atmosferas para dormir, relaxar e se concentrar. [Acesse a aplicação](https://noctua-psi.vercel.app/).
+
+**Tecnologias:** React 19, TypeScript, TanStack Start, Vite, Tailwind CSS e Supabase.
+
 ### [Los Santos Reader](https://github.com/JS171555/los-santos-reader)
 
 Plataforma de leitura digital com biblioteca, leitor de PDF, marcadores e retomada do progresso. Reúne metas de leitura, gamificação e administração do catálogo, com interface responsiva e intuitiva.
