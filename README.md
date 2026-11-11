@@ -8,17 +8,18 @@ Aplicações web, plataformas de gestão e integrações com APIs.
 
 ## Sobre
 
-Desenvolvo aplicações web com JavaScript e Python, da interface à integração com serviços e bancos de dados. Meus projetos incluem e-commerce, leitura digital, gestão de treinos e organização pessoal.
+Desenvolvo aplicações web com JavaScript e Python, da interface à integração com serviços e bancos de dados. Meus projetos incluem e-commerce, leitura digital, gestão de treinos e organização de conteúdo.
 
-Priorizo interfaces responsivas, fluxos de uso claros e código organizado. Trabalho com autenticação, controle de acesso, persistência de dados e integrações externas, além da publicação e evolução das aplicações.
+Priorizo interfaces responsivas, fluxos de uso claros e código organizado. Trabalho com autenticação, controle de acesso, persistência de dados e integrações externas, além da publicação de aplicações.
 
 ## Competências técnicas
 
 | Área | Tecnologias e ferramentas |
 | --- | --- |
-| **Frontend** | HTML5, CSS3, JavaScript, Tailwind CSS, GSAP e Vite |
+| **Frontend** | HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, GSAP e Vite |
 | **Backend** | Python, Flask, Node.js, Express e Supabase Edge Functions |
 | **Dados e autenticação** | PostgreSQL, SQL, Supabase Auth, Storage e políticas RLS |
+| **IA** | Inteligência Artificial |
 | **Integrações** | APIs REST, Mercado Pago, Melhor Envio, ViaCEP e Kitsu API |
 | **Qualidade e publicação** | Git, GitHub, Playwright, Node.js Test Runner, Vercel e GitHub Pages |
 
@@ -26,14 +27,14 @@ Priorizo interfaces responsivas, fluxos de uso claros e código organizado. Trab
 
 ### [Pupi](https://github.com/JS171555/pupi)
 
-E-commerce para petshop com catálogo, carrinho, conta do cliente e painel administrativo. Inclui pagamento por cartão e Pix dentro do aplicativo, cotação de frete, consulta de CEP e gestão de produtos, estoque e pedidos.
+E-commerce para petshop com catálogo, carrinho, conta do cliente e painel administrativo. Inclui pagamento por cartão e Pix dentro do aplicativo, cotação de frete, consulta de CEP e gestão de produtos.
 
 **Tecnologias:** JavaScript modular, Vite, Supabase, PostgreSQL, GSAP e Lucide.  
 **Integrações:** Mercado Pago, Melhor Envio e ViaCEP.
 
 ### [Los Santos Reader](https://github.com/JS171555/los-santos-reader)
 
-Plataforma de leitura digital com biblioteca, leitor de PDF, marcadores e retomada do progresso. Reúne metas de leitura, gamificação e administração do catálogo, com interface responsiva e instalação como PWA.
+Plataforma de leitura digital com biblioteca, leitor de PDF, marcadores e retomada do progresso. Reúne metas de leitura, gamificação e administração do catálogo, com interface responsiva e intuitiva.
 
 **Tecnologias:** HTML, CSS, JavaScript, Supabase, PostgreSQL, PDF.js e GSAP.
 
