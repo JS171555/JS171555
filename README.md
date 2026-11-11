@@ -8,9 +8,9 @@ Aplicações web, plataformas de gestão e integrações com APIs.
 
 ## Sobre
 
-Desenvolvo aplicações web com JavaScript e Python, da interface à integração com serviços e bancos de dados. Meus projetos incluem e-commerce, leitura digital, gestão de treinos e organização de conteúdo.
+Desenvolvo aplicações web com JavaScript, TypeScript e Python, da interface à integração com serviços e bancos de dados. Meus projetos incluem e-commerce, leitura digital, gestão de treinos e organização de conteúdo.
 
-Priorizo interfaces responsivas, fluxos de uso claros e código organizado. Trabalho com autenticação, controle de acesso, persistência de dados e integrações externas, além da publicação de aplicações.
+Priorizo interfaces responsivas, fluxos de uso claros e código organizado. Trabalho com autenticação, controle de acesso, persistência de dados, integrações externas e soluções com IA para automatizar tarefas, melhorar a experiência do usuário e apoiar processos de negócio.
 
 ## Competências técnicas
 
@@ -19,7 +19,7 @@ Priorizo interfaces responsivas, fluxos de uso claros e código organizado. Trab
 | **Frontend** | HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, GSAP e Vite |
 | **Backend** | Python, Flask, Node.js, Express e Supabase Edge Functions |
 | **Dados e autenticação** | PostgreSQL, SQL, Supabase Auth, Storage e políticas RLS |
-| **IA** | Inteligência Artificial |
+| **IA e automação** | Inteligência Artificial, automações, agentes e fluxos com IA |
 | **Integrações** | APIs REST, Mercado Pago, Melhor Envio, ViaCEP e Kitsu API |
 | **Qualidade e publicação** | Git, GitHub, Playwright, Node.js Test Runner, Vercel e GitHub Pages |
 
