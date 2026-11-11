@@ -27,7 +27,7 @@ Priorizo interfaces responsivas, fluxos de uso claros e código organizado. Trab
 
 ### [Pupi](https://github.com/JS171555/pupi)
 
-E-commerce para petshop com catálogo, carrinho, conta do cliente e painel administrativo. Inclui pagamento por cartão e Pix dentro do aplicativo, cotação de frete, consulta de CEP e gestão de produtos.
+E-commerce para petshop com catálogo, carrinho, conta do cliente e painel administrativo. Inclui pagamento por cartão e Pix dentro do aplicativo, cotação de frete, consulta de CEP e gestão de produtos. [Acesse a aplicação](https://pupi-lovat.vercel.app/).
 
 **Tecnologias:** JavaScript modular, Vite, Supabase, PostgreSQL, GSAP e Lucide.  
 **Integrações:** Mercado Pago, Melhor Envio e ViaCEP.
@@ -40,19 +40,19 @@ Experiência sonora minimalista para dispositivos móveis e tablets, com camadas
 
 ### [Los Santos Reader](https://github.com/JS171555/los-santos-reader)
 
-Plataforma de leitura digital com biblioteca, leitor de PDF, marcadores e retomada do progresso. Reúne metas de leitura, gamificação e administração do catálogo, com interface responsiva e intuitiva.
+Plataforma de leitura digital com biblioteca, leitor de PDF, marcadores e retomada do progresso. Reúne metas de leitura, gamificação e administração do catálogo, com interface responsiva e intuitiva. [Acesse a aplicação](https://js171555.github.io/los-santos-reader/).
 
 **Tecnologias:** HTML, CSS, JavaScript, Supabase, PostgreSQL, PDF.js e GSAP.
 
 ### [OTAKU LEVEL](https://github.com/JS171555/otaku-level)
 
-Aplicação para acompanhar animes e organizar uma biblioteca pessoal. Integra o catálogo da Kitsu API a recursos de avaliação, favoritos, progresso, conquistas e ranking.
+Aplicação para acompanhar animes e organizar uma biblioteca pessoal. Integra o catálogo da Kitsu API a recursos de avaliação, favoritos, progresso, conquistas e ranking. [Acesse a aplicação](https://js171555.github.io/otaku-level/).
 
 **Tecnologias:** HTML, CSS, JavaScript, Supabase, PostgreSQL, Kitsu API e PWA.
 
 ### [BOX Jardim Silvina](https://github.com/JS171555/box_jardim_silvina)
 
-Plataforma para a rotina de um espaço de treinamento funcional, com área do aluno e painel do treinador. Permite consultar treinos, registrar presença e resultados e acompanhar a evolução dos alunos.
+Plataforma para a rotina de um espaço de treinamento funcional, com área do aluno e painel do treinador. Permite consultar treinos, registrar presença e resultados e acompanhar a evolução dos alunos. [Acesse a aplicação](https://js171555.github.io/box_jardim_silvina/).
 
 **Tecnologias:** HTML, CSS, JavaScript, Supabase, PostgreSQL e PWA.
 
@@ -60,9 +60,9 @@ Plataforma para a rotina de um espaço de treinamento funcional, com área do al
 
 | Projeto | Proposta |
 | --- | --- |
-| [Meu Bolso](https://github.com/JS171555/meu_bolso) | Controle financeiro pessoal com receitas, despesas, saldo e organização por categoria. |
-| [Isa Closet](https://github.com/JS171555/isa_closet) | Vitrine de moda com catálogo, sacola, seleção de tamanhos, atendimento pelo WhatsApp e administração de produtos. |
-| [Teatro de Marion](https://github.com/JS171555/teatro_de_marion) | Jogo narrativo de terror surrealista no estilo point-and-click, em desenvolvimento com Construct 3. |
+| [Meu Bolso](https://github.com/JS171555/meu_bolso) | Controle financeiro pessoal com receitas, despesas, saldo e organização por categoria. [Acesse a aplicação](https://js171555.github.io/meu_bolso/). |
+| [Isa Closet](https://github.com/JS171555/isa_closet) | Vitrine de moda com catálogo, sacola, seleção de tamanhos, atendimento pelo WhatsApp e administração de produtos. [Acesse a aplicação](http://isacloset.online/). |
+| [Teatro de Marion](https://github.com/JS171555/teatro_de_marion) | Jogo narrativo de terror surrealista no estilo point-and-click, em desenvolvimento com Construct 3. [Acesse a aplicação](https://js171555.github.io/teatro_de_marion/). |
 
 [Explorar todos os repositórios](https://github.com/JS171555?tab=repositories)
 
