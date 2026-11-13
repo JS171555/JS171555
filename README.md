@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contribuicoes-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/contribuicoes-claro.svg">
+  <img src="assets/contribuicoes-claro.svg" alt="Tabela de contribuições de Junior Santos no último ano" width="779">
+</picture>
+
 # Junior Santos
 
 **Desenvolvedor Full Stack**

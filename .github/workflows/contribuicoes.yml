@@ -1,0 +1,48 @@
+name: Atualizar tabela de contribuições
+
+on:
+  schedule:
+    # Todos os dias, 03:17 UTC (00:17 em Brasília)
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/contribuicoes.py"
+      - ".github/workflows/contribuicoes.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribuicoes
+  cancel-in-progress: true
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Gerar os gráficos
+        env:
+          GH_USER: JS171555
+        run: python3 scripts/contribuicoes.py
+
+      - name: Commitar as alterações
+        run: |
+          if [ -z "$(git status --porcelain assets)" ]; then
+            echo "Nada mudou desde a última execução."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "chore: atualiza a tabela de contribuições"
+          git push
